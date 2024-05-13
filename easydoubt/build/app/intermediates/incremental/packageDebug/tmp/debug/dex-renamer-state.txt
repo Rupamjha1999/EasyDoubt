@@ -1,0 +1,4 @@
+#Fri May 03 03:16:45 IST 2024
+base.0=C\:\\Users\\Rupam\\AndroidStudioProjects\\easydoubt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
